@@ -1,0 +1,19 @@
+.body {
+  background-color: gray;
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.body-squeeze {
+  background-color: orange;
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.container {
+  width: 
+}
+
+.float--left {
+  float: left;
+}

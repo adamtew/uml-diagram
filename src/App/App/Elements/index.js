@@ -1,0 +1,8 @@
+export { Element } from './Element'
+export { makeCanvasCircle } from './makeCircle'
+export { Diagram } from './Diagram'
+export { BinaryElement } from './BinaryElement'
+export { ClassElement } from './ClassElement'
+export { LineElement } from './LineElement'
+export { AggregationLine } from './AggregationLine'
+export { CompositionLine } from './CompositionLine'

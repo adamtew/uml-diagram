@@ -1,0 +1,44 @@
+.menu {
+  height: 70px;
+  padding: 10px;
+  background: #23272C;
+}
+
+.input__container {
+  float: left;
+  position: relative;
+  top: -8px;
+}
+
+.input__label {
+  margin: 0 10px 0 0;
+  display: block;
+  font-size: 18px;
+  color: white;
+}
+
+.input {
+  font-size: 18px;
+  padding: 3px;
+  outline: 0;
+  width: 135px;
+  margin: 0 10px 0 0;
+}
+
+.button {
+  border: none;
+  padding: 12px;
+  margin: 0 10px;
+  outline: 0;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #45D4F4;
+}
+
+.button--flat {
+  background: none;
+  border: 1px solid #d3d3d3;
+}

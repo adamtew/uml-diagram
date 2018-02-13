@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  background-color: #f9f0f1;
+  //width: 1400px;
+  //margin: 0 auto;
+}
+
+.body-squeeze {
+  //background-color: orange;
+  //width: 1400px;
+  //margin: 0 auto;
+}
+
+.container {
+  width: 
+}
+
+.canvas-container {
+  height: calc(100vh - 70px);
+}
+
+.float--left {
+  float: left;
+}
